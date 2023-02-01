@@ -1,5 +1,5 @@
 ### Решение задач на leetcode
 На текущий момент решено:
-1. easy - 7
-2. medium - 0
-3. hard - 0
+* easy - 7
+* medium - 0
+* hard - 0
